@@ -1,0 +1,8 @@
+.nonValidField {
+    background-color: red !important;
+    color: white !important;
+}
+
+.tableStyle {
+    width: 50%;
+}
